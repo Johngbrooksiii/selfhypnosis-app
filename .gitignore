@@ -1,0 +1,30 @@
+.gradle/
+/build/
+**/build/
+
+# Android Studio
+/.idea/
+*.iml
+
+# Local config
+local.properties
+
+# macOS
+.DS_Store
+
+# Keystore
+*.keystore
+*.jks
+
+# APKs
+*.apk
+app/*.apk
+
+# Logs
+*.log
+
+# Kotlin/Java
+*.class
+
+# Misc
+node_modules/

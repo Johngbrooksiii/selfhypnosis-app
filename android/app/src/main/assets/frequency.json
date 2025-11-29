@@ -1,0 +1,29 @@
+{
+  "sessions": [
+    {
+      "id": "stress_relief",
+      "title": "Stress Relief Session",
+      "induction": { "type": "isochronic", "carrier": 440, "mod": 10, "binaural": false },
+      "deepening": { "type": "isochronic", "carrier": 440, "mod": 6, "binaural": false },
+      "suggestion": "I am calm, centered, resilient.",
+      "exit": { "type": "isochronic", "carrier": 440, "mod": 15, "binaural": false }
+    },
+    {
+      "id": "memory_recovery",
+      "title": "Memory Recovery Session",
+      "induction": { "type": "isochronic", "carrier": 440, "mod": 9, "binaural": false },
+      "deepening": { "type": "isochronic", "carrier": 440, "mod": 5, "binaural": false },
+      "suggestion": "My memory is clear and accessible.",
+      "reinforcement": { "type": "burst", "carrier": 880, "mod": 40, "binaural": false },
+      "exit": { "type": "isochronic", "carrier": 440, "mod": 16, "binaural": false }
+    },
+    {
+      "id": "creative_problem_solving",
+      "title": "Creative Problem Solving",
+      "induction": { "type": "isochronic", "carrier": 440, "mod": 8, "binaural": false },
+      "deepening": { "type": "isochronic", "carrier": 440, "mod": 6, "binaural": false },
+      "suggestion": "New ideas flow easily.",
+      "exit": { "type": "isochronic", "carrier": 440, "mod": 14, "binaural": false }
+    }
+  ]
+}
